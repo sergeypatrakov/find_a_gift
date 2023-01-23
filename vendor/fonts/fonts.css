@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Homemade Apple';
+  src: url(./Homemade/HomemadeApple-Regular.ttf) format('ttf');
+  font-style: normal;
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  src: url(./Gilroy/Gilroy-Regular.woff) format('woff');
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: 'Gilroy';
+  src: url(./Gilroy/Gilroy-Bold.woff) format('woff');
+  font-style: normal;
+  font-weight: bold;
+}
