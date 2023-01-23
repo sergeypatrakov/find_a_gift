@@ -1,14 +1,9 @@
 .header__logo {
-  margin: 0 auto;
-  font-family: 'HomemadeApple', 'Helvetica', sans-serif;
-  font-size: 18px;
-  font-style: normal;
-  font-weight: 400;
-  line-height: 39px;
-  color: #231f20;
+  height: 39px;
   position: absolute;
   top: 39px;
   left: 80px;
   right: 1319px;
   bottom: 38px;
+  background-image: url(../../../images/logo_header.png);
 }
