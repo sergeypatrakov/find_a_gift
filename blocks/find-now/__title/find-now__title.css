@@ -1,0 +1,14 @@
+.find-now__title {
+  margin: 0 auto;
+  width: 433px;
+  min-height: 206px;
+  font-family: 'Gilroy';
+  font-size: 56px;
+  line-height: 69px;
+  color: #000;
+  position: absolute;
+  top: 154px;
+  left: 162px;
+  right: 845px;
+  bottom: 340px;
+}

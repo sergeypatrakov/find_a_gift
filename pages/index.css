@@ -12,4 +12,11 @@
 @import url(../blocks/header/__button/header__button.css);
 @import url(../blocks/header/__button/_border-box/header__button_border-box.css);
 
+@import url(../blocks/find-now/find-now.css);
+@import url(../blocks/find-now/__title/find-now__title.css);
+@import url(../blocks/find-now/__subtitle/find-now__subtitle.css);
+@import url(../blocks/find-now/__picture/find-now__picture.css);
+@import url(../blocks/find-now/__button/_border-box/find-now__button_border-box.css);
+@import url(../blocks/find-now/__button/find-now__button.css);
+
 @import url(../blocks/footer/footer.css);

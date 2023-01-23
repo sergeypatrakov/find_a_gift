@@ -1,0 +1,13 @@
+.find-now__button_border-box {
+  width: 200px;
+  height: 60px;
+  position: absolute;
+  left: 162px;
+  right: 1078px;
+  top: 505px;
+  bottom: 135px;
+  background: #f7941e;
+  border-radius: 5px;
+  z-index: 1;
+  display: flex;
+}

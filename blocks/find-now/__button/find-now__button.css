@@ -1,0 +1,18 @@
+.find-now__button {
+  margin: 0 auto;
+  position: absolute;
+  top: 528px;
+  left: 187px;
+  right: 1102px;
+  bottom: 150px;
+  font-family: 'Gilroy';
+  font-size: 18px;
+  line-height: 22px;
+  width: 151px;
+  color: #fff;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+}
