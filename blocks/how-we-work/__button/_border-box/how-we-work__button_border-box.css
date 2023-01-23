@@ -1,0 +1,13 @@
+.how-we-work__button_border-box {
+  box-sizing: border-box;
+  position: absolute;
+  width: 200px;
+  height: 60px;
+  top: 436px;
+  left: 833px;
+  right: 407px;
+  bottom: 104px;
+  border: 1px solid #f7941e;
+  border-radius: 5px;
+  z-index: 2;
+}

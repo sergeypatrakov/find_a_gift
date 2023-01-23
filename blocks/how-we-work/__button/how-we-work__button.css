@@ -1,0 +1,18 @@
+.how-we-work__button {
+  margin: 0 auto;
+  position: absolute;
+  line-height: 25px;
+  width: 107px;
+  top: 457px;
+  right: 453px;
+  left: 880px;
+  bottom: 118px;
+  font-family: 'Gilroy';
+  font-size: 18px;
+  line-height: 134.77%;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  text-transform: uppercase;
+  color: #f7941e;
+}

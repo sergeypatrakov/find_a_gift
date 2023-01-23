@@ -19,4 +19,11 @@
 @import url(../blocks/find-now/__button/_border-box/find-now__button_border-box.css);
 @import url(../blocks/find-now/__button/find-now__button.css);
 
+@import url(../blocks/how-we-work/how-we-work.css);
+@import url(../blocks/how-we-work/__picture/how-we-work__picture.css);
+@import url(../blocks/how-we-work/__title/how-we-work__title.css);
+@import url(../blocks/how-we-work/__subtitle/how-we-work__subtitle.css);
+@import url(../blocks/how-we-work/__button/how-we-work__button.css);
+@import url(../blocks/how-we-work/__button/_border-box/how-we-work__button_border-box.css);
+
 @import url(../blocks/footer/footer.css);

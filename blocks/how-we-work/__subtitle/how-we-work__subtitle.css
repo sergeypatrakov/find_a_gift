@@ -1,0 +1,16 @@
+.how-we-work__subtitle {
+  margin: 0 auto;
+  position: absolute;
+  height: 169px;
+  width: 441px;
+  top: 232px;
+  left: 833px;
+  right: 166px;
+  bottom: 199px;
+  font-family: 'Gilroy';
+  font-size: 20px;
+  text-align: justify;
+  line-height: 140.62%;
+  font-weight: normal;
+  color: #000;
+}

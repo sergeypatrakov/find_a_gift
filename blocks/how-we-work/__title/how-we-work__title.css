@@ -1,0 +1,14 @@
+.how-we-work__title {
+  margin: 0 auto;
+  position: absolute;
+  top: 164px;
+  left: 833px;
+  right: 413px;
+  bottom: 391px;
+  line-height: 45px;
+  width: 194px;
+  font-family: 'Gilroy';
+  font-size: 32px;
+  font-weight: normal;
+  color: #000;
+}
