@@ -1,0 +1,12 @@
+.header__button {
+  margin: 0 auto;
+  font-family: 'Gilroy', 'Helvetica', sans-serif;
+  font-size: 18px;
+  line-height: 22px;
+  color: #f7941e;
+  position: absolute;
+  top: 50.7px;
+  left: 1280px;
+  right: 59px;
+  bottom: 43.3px;
+}
