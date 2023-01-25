@@ -1,0 +1,10 @@
+.button__text_clear {
+  margin: 0 auto;
+  text-align: center;
+  font-family: 'Gilroy';
+  padding-top: 15px;
+  font-size: 18px;
+  line-height: 25px;
+  color: #000;
+  text-transform: uppercase;
+}

@@ -1,0 +1,7 @@
+.column {
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  padding-top: 81px;
+  padding-left: 235px;
+}

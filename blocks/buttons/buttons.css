@@ -1,0 +1,6 @@
+.buttons {
+  display: flex;
+  flex-direction: row;
+  padding-right: 235px;
+  padding-top: 96px;
+}

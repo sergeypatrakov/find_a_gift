@@ -1,0 +1,12 @@
+.button__text_white {
+  margin: 0 auto;
+  width: 151px;
+  line-height: 25px;
+  width: 167px;
+  padding-top: 16px;
+  text-align: center;
+  font-family: 'Gilroy';
+  font-size: 18px;
+  text-transform: uppercase;
+  color: #fff;
+}

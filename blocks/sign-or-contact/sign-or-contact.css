@@ -1,0 +1,8 @@
+.sign-or-contact {
+  width: 1440px;
+  height: 240px;
+  background-color: #f7941e;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
