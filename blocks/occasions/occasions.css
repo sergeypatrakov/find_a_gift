@@ -1,0 +1,7 @@
+.occasions {
+  width: 1440px;
+  height: 820px;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+}

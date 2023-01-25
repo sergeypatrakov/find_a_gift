@@ -18,3 +18,10 @@
   font-style: normal;
   font-weight: bold;
 }
+
+@font-face {
+  font-family: 'Roboto';
+  src: url(./Roboto/Roboto-Regular.ttf) format('ttf');
+  font-style: normal;
+  font-weight: normal;
+}

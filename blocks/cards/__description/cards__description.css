@@ -1,0 +1,10 @@
+.cards__description {
+  margin: 0;
+  line-height: 20px;
+  width: 67px;
+  font-family: 'Roboto';
+  font-size: 14px;
+  color: #000;
+  padding-top: 74px;
+  padding-left: 24px;
+}
