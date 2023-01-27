@@ -1,0 +1,8 @@
+.swing {
+  width: 1170px;
+  height: 370px;
+  display: flex;
+  flex-direction: row;
+  background-color: #231f20;
+  margin-top: 71px;
+}

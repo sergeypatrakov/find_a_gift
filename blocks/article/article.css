@@ -1,0 +1,9 @@
+.article {
+  width: 570px;
+  height: 290px;
+  margin-right: 30px;
+}
+
+.article:nth-last-child(2n) {
+  margin-right: 0;
+}

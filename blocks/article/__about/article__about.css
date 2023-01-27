@@ -1,0 +1,10 @@
+.article__about {
+  margin: 0;
+  padding-top: 16px;
+  padding-left: 48px;
+  width: 70px;
+  line-height: 20px;
+  font-family: 'Gilroy';
+  font-size: 14px;
+  color: #000;
+}

@@ -1,0 +1,11 @@
+.article__title {
+  margin: 0;
+  width: 474px;
+  height: 68px;
+  font-family: 'Gilroy';
+  font-size: 24px;
+  color: #000;
+  line-height: 140.62%;
+  padding-top: 48px;
+  padding-left: 48px;
+}
