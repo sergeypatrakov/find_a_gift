@@ -1,0 +1,10 @@
+.footer__copyright_year {
+  margin: 0;
+  width: 94px;
+  line-height: 20px;
+  font-family: 'Gilroy';
+  font-size: 14px;
+  color: #000;
+  text-align: center;
+  margin-right: 14px;
+}

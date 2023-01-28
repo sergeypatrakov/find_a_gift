@@ -62,3 +62,7 @@
 @import url(../blocks/article/__about/article__about.css);
 
 @import url(../blocks/footer/footer.css);
+@import url(../blocks/footer/__logo/footer__logo.css);
+@import url(../blocks/footer/__copyright/footer__copyright.css);
+@import url(../blocks/footer/__copyright/_year/footer__copyright_year.css);
+@import url(../blocks/footer/__copyright/_text/footer__copyright_text.css);

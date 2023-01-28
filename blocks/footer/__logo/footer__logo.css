@@ -1,0 +1,10 @@
+.footer__logo {
+  position: absolute;
+  top: 106px;
+  left: 706px;
+  right: 693px;
+  bottom: 265px;
+  width: 41px;
+  height: 39px;
+  background-image: url(../../../images/logo_footer.png);
+}

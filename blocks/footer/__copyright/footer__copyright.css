@@ -1,0 +1,6 @@
+.footer__copyright {
+  display: flex;
+  flex-direction: row;
+  padding-top: 355px;
+  justify-content: center;
+}
