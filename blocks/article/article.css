@@ -7,3 +7,7 @@
 .article:nth-last-child(2n) {
   margin-right: 0;
 }
+
+.article:hover {
+  box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.05)
+}
