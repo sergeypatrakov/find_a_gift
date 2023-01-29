@@ -1,0 +1,8 @@
+.footer__links-left {
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 159px;
+  line-height: 20px;
+}

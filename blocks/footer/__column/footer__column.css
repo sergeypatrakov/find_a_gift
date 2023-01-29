@@ -1,0 +1,7 @@
+.footer__column {
+  display: flex;
+  flex-direction: row;
+  padding-top: 108.8px;
+  padding-left: 572.8px;
+  list-style-type: none;
+}

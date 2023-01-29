@@ -63,6 +63,14 @@
 
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__logo/footer__logo.css);
+@import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__links/footer__links-left.css);
+@import url(../blocks/footer/__links/footer__links-right.css);
+@import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
 @import url(../blocks/footer/__copyright/_year/footer__copyright_year.css);
 @import url(../blocks/footer/__copyright/_text/footer__copyright_text.css);
+@import url(../blocks/footer/__column/footer__column.css);
+@import url(../blocks/footer/__column/footer__column-social.css);
+@import url(../blocks/footer/__social/footer__social-icon.css);
+@import url(../blocks/footer/__divider/footer__divider.css);

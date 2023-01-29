@@ -1,0 +1,7 @@
+.footer__divider {
+  width: 1000px;
+  top: 188px;
+  left: 220px;
+  border: 1px solid #000;
+  position: absolute;
+}

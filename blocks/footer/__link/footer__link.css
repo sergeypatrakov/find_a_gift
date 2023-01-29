@@ -1,0 +1,9 @@
+.footer__link {
+  margin: 0;
+  line-height: 20px;
+  font-family: 'Gilroy';
+  font-size: 14px;
+  font-weight: 600;
+  color: #000;
+  text-decoration: none;
+}

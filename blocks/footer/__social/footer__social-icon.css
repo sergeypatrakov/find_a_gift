@@ -1,0 +1,9 @@
+.footer__social-icon {
+  height: 38.4px;
+  width: 38.4px;
+  padding-right: 25.6px;
+}
+
+.footer__social-icon:nth-child(5n) {
+  padding-right: 0;
+}
