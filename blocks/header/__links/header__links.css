@@ -6,8 +6,3 @@
   padding-top: 47.37px;
   padding-bottom: 47.37px;
 }
-
-.header__links:nth-child(4n)
-{
-  padding-right: 0;
-}

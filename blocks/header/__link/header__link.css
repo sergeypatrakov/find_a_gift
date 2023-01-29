@@ -8,3 +8,8 @@
   padding-right: 31px;
   text-decoration: none;
 }
+
+.header__link:nth-child(4n)
+{
+  padding-right: 0;
+}
